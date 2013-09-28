@@ -68,11 +68,12 @@ a.link:hover
 .circle
 {
     border-radius: 50%;
-    width:200px;
-    height:200px; 
+    width:210px;
+    height:210px; 
     border:10px solid;
     background-color:#262626;
     margin:auto;
+    margin-top:15px;
     text-align:center;
     border:20px solid transparent;
 }
