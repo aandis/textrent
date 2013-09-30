@@ -109,7 +109,7 @@
 
 	<div class="container">
 		<div class="sixteen columns">
-			<h1 class="remove-bottom" style="margin-top: 40px">Skeleton</h1>
+			<h1 class="remove-bottom" style="margin-top: 40px">Skelton</h1>
 			<h5>Version 1.2</h5>
 			<hr/>
 		</div>
