@@ -73,20 +73,20 @@ a.link:hover
 .circle
 {
     border-radius: 50%;
-    width:210px;
-    height:210px; 
+    width:250px;
+    height:250px; 
     //border:10px solid;
     background-color:#262626;
     margin:auto;
     margin-top:15px;
     text-align:center;
-	border:15px solid transparent;
+	//border:15px solid transparent;
 	box-shadow: 10px 10px 5px #888;
 }
 .textcolor
 {
  color:white;
- padding-top:56px;
+ padding-top:75px;
  padding-bottom:80px;
  font-family: 'Ubuntu',sans-serif;
  font-weight: bold;
@@ -98,10 +98,11 @@ a.link:hover
  }
  .circle:hover
  {
-	box-shadow: inset 0 0 5px 5px #888;
-	border: 15px solid #FF4800;
-	transition: all 0.2s ease-in-out 0s;
-	color: #FF4800;
+	box-shadow: 0 0 0 12px #FF4800 inset;
+	//border: 15px solid #FF4800;
+	transition: all 1s ease-in-out 0s;
+	//transition: box-shadow 3s ease-in-out;
+	//color: #FF4800;
 	display:block
 	
  }
